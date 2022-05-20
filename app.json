@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Bamber Baits (Daro)",
+    "slug": "bamber-baits",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon_ios.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shloyder.bamberbaits"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.shloyder.bamberbaits"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    }
+  }
+}
