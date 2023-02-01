@@ -2,6 +2,8 @@
 
 ### Application for preparing groundbaits for fish
 
+<img src='https://raw.githubusercontent.com/lukasgola/bamber-baits/main/images/logo.png' width=200 />
+
 - React Native
 
 - Async Storage
