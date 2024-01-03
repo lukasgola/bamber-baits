@@ -2,7 +2,9 @@
 
 ### Application for preparing groundbaits for fish
 
-<img src='https://raw.githubusercontent.com/lukasgola/bamber-baits/main/images/logo.png' width=200 />
+<div style="display: flex; justify-content: center;">
+  <img src='https://raw.githubusercontent.com/lukasgola/bamber-baits/main/images/logo.png' width=200 />
+</div>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,8 +17,6 @@ Bamber Baits is a React Native-based application designed to assist in preparing
 
 ## Features
 - **Mixing Formulas**: Implement various bait mixing formulas for different fish species.
-- **Recipe Sharing**: Allow users to share and discover effective bait recipes within the app.
-- **Weather Integration**: Integrate weather data to recommend optimal bait mixtures based on fishing conditions.
 - **Inventory Management**: Track and manage bait ingredients and supplies.
 - **Offline Support**: Enable the app to function seamlessly even without an internet connection.
 - **Customization**: Provide options for users to customize and tweak bait mixtures based on personal preferences.
