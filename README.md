@@ -1,8 +1,6 @@
-# Bamber Baits
-
-### Application for preparing groundbaits for fish
-
-<div style="display: flex; justify-content: center;">
+<div align="center">
+  <h1>Bamber Baits</h1>
+  <h3>Application for preparing groundbaits for fish</h3>
   <img src='https://raw.githubusercontent.com/lukasgola/bamber-baits/main/images/logo.png' width=200 />
 </div>
 
