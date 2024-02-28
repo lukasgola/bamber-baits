@@ -15,9 +15,9 @@ Bamber Baits is a React Native-based application designed to assist in preparing
 
 ## Preview
 <div>
-  <img src='https://github.com/lukasgola/myportfolio/blob/main/src/assets/pro2_1.png' width=250 />
-  <img src='https://github.com/lukasgola/myportfolio/blob/main/src/assets/pro2_2.png' width=250 />
-  <img src='https://github.com/lukasgola/myportfolio/blob/main/src/assets/pro2_3.png' width=250 />
+  <img src='https://github.com/lukasgola/bamber-baits/blob/main/assets/pro2_1.png' width=250 />
+  <img src='https://github.com/lukasgola/bamber-baits/blob/main/assets/pro2_2.png' width=250 />
+  <img src='https://github.com/lukasgola/bamber-baits/blob/main/assets/pro2_3.png' width=250 />
 </div>
 
 ## Features
